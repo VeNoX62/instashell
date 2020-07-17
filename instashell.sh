@@ -214,3 +214,6 @@ start
 bruteforcer
 esac
 
+Cd Instashell/ chmod 775
+Instashell.sh chmod 775
+Install.sh
